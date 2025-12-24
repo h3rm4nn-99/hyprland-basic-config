@@ -2,7 +2,7 @@
 Ecco la mia (estremamente minimale) configurazione del window manager **Hyprland** usato insieme a **Waybar** sulla piattaforma **Arch Linux** (*btw*). Nonostante sia stata creata principalmente a fini di backup personale, questa repository può rappresentare un buon punto di partenza per la creazione di configurazioni più complesse, essendo le funzionalità più utili (a mio avviso!) già configurate.
 
 # Prerequisiti
-Per far sì che la configurazione presente in questa repository funzioni su una qualsiasi installazione Arch Linus è necessario installare i seguenti pacchetti:
+Per far sì che la configurazione presente in questa repository funzioni su una qualsiasi installazione Arch Linux è necessario installare i seguenti pacchetti:
 - [``hyprland``](https://archlinux.org/packages/extra/x86_64/hyprland/) (il window manager)
 - [``waybar``](https://archlinux.org/packages/extra/x86_64/waybar/) (la barra superiore)
 - [``wlogout``](https://aur.archlinux.org/packages/wlogout) (da AUR, per il menu di spegnimento)
