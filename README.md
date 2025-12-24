@@ -1,2 +1,2 @@
 # hyprland-basic-config
-Una configurazione barebones di Hyprland + Waybar basata su Arch Linux
+Questa repository contiene una configurazione minimale per il window manager **Hyprland** usato insieme a **Waybar** sulla piattaforma **Arch Linux** (*btw*).
